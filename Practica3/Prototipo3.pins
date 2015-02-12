@@ -1,0 +1,951 @@
+; Sun Apr 07 21:01:38 CEST 2013
+; 
+;+ (version "3.4.8")
+;+ (build "Build 629")
+
+([KB_520293_Class100] of  Arroz
+
+	(CaloriasAlimento 350.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 2.2)
+	(HCAlimento 74.1)
+	(NombreAlimento "Arroz integral")
+	(ProteinasAlimento 7.25)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class101] of  Cereales
+
+	(CaloriasAlimento 388.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 2.5)
+	(HCAlimento 85.0)
+	(NombreAlimento "Cereales con chocolate")
+	(ProteinasAlimento 5.0)
+	(VitaminasAlimento 50.0))
+
+([KB_520293_Class102] of  Cereales
+
+	(CaloriasAlimento 395.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 11.0)
+	(HCAlimento 61.0)
+	(NombreAlimento "Cereales muesli")
+	(ProteinasAlimento 9.0)
+	(VitaminasAlimento 51.0))
+
+([KB_520293_Class103] of  Frutas
+
+	(CaloriasAlimento 45.5)
+	(GrasaAlimento 0.0)
+	(HCAlimento 8.9)
+	(NombreAlimento "Naranja")
+	(ProteinasAlimento 0.8)
+	(Recomendaciones
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10005])
+	(VitaminasAlimento 50.6))
+
+([KB_520293_Class104] of  Frutas
+
+	(CaloriasAlimento 95.0)
+	(GrasaAlimento 0.0)
+	(HCAlimento 20.8)
+	(NombreAlimento "Platano")
+	(ProteinasAlimento 1.0)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 11.5))
+
+([KB_520293_Class105] of  Frutas
+
+	(CaloriasAlimento 70.3)
+	(GrasaAlimento 0.0)
+	(HCAlimento 16.1)
+	(NombreAlimento "Uvas")
+	(ProteinasAlimento 0.7)
+	(Recomendaciones [Prototipo3_Class10007])
+	(VitaminasAlimento 3.0))
+
+([KB_520293_Class106] of  Frutas
+
+	(CaloriasAlimento 55.4)
+	(GrasaAlimento 0.0)
+	(HCAlimento 12.4)
+	(NombreAlimento "Melon")
+	(ProteinasAlimento 0.9)
+	(Recomendaciones
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10005])
+	(VitaminasAlimento 32.0))
+
+([KB_520293_Class107] of  Legumbres
+
+	(CaloriasAlimento 341.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 5.5)
+	(HCAlimento 44.3)
+	(NombreAlimento "Garbanzos")
+	(ProteinasAlimento 20.8)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(VitaminasAlimento 4.0))
+
+([KB_520293_Class108] of  Legumbres
+
+	(CaloriasAlimento 304.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 1.7)
+	(HCAlimento 40.6)
+	(NombreAlimento "Lentejas")
+	(ProteinasAlimento 23.1)
+	(Recomendaciones [Prototipo3_Class10003])
+	(VitaminasAlimento 3.4))
+
+([KB_520293_Class109] of  Legumbres
+
+	(CaloriasAlimento 373.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 18.3)
+	(HCAlimento 6.3)
+	(NombreAlimento "Soja")
+	(ProteinasAlimento 34.7)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 3.0))
+
+([KB_520293_Class110] of  Legumbres
+
+	(CaloriasAlimento 284.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 1.6)
+	(HCAlimento 34.7)
+	(NombreAlimento "Judia blanca")
+	(ProteinasAlimento 21.1)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(VitaminasAlimento 2.5))
+
+([KB_520293_Class111] of  Pan
+
+	(CaloriasAlimento 261.0)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10007])
+	(GrasaAlimento 1.6)
+	(HCAlimento 51.5)
+	(NombreAlimento "Pan blanco")
+	(ProteinasAlimento 8.5)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class112] of  Pastas
+
+	(CaloriasAlimento 359.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 1.6)
+	(HCAlimento 70.9)
+	(NombreAlimento "Pasta")
+	(ProteinasAlimento 12.8)
+	(Recomendaciones [Prototipo3_Class10003])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class113] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 33.6)
+	(GrasaAlimento 1.2)
+	(HCAlimento 0.5)
+	(NombreAlimento "Champiñones")
+	(ProteinasAlimento 4.2)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 4.0))
+
+([KB_520293_Class130] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 22.2)
+	(GrasaAlimento 0.2)
+	(HCAlimento 3.5)
+	(NombreAlimento "Tomate")
+	(ProteinasAlimento 0.9)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 26.6))
+
+([KB_520293_Class131] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 19.6)
+	(GrasaAlimento 0.6)
+	(HCAlimento 1.4)
+	(NombreAlimento "Lechuga")
+	(ProteinasAlimento 1.4)
+	(Recomendaciones [Prototipo3_Class10004])
+	(VitaminasAlimento 13.0))
+
+([KB_520293_Class132] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 32.9)
+	(GrasaAlimento 0.9)
+	(HCAlimento 4.2)
+	(NombreAlimento "Pimiento rojo")
+	(ProteinasAlimento 1.2)
+	(Recomendaciones
+		[Prototipo3_Class10005]
+		[Prototipo3_Class10004])
+	(VitaminasAlimento 138.7))
+
+([KB_520293_Class133] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 31.8)
+	(GrasaAlimento 0.0)
+	(HCAlimento 5.3)
+	(NombreAlimento "Cebolla")
+	(ProteinasAlimento 1.2)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(VitaminasAlimento 6.9))
+
+([KB_520293_Class134] of  PrimerPlato
+
+	(CaloriasPlato 662.0)
+	(GrasasPlato 34.0)
+	(HidratosDeCArbonoPlato 43.1)
+	(IngredientesPlato
+		[KB_520293_Class135]
+		[KB_520293_Class141]
+		[KB_520293_Class138]
+		[KB_520293_Class140]
+		[KB_520293_Class139]
+		[KB_520293_Class137]
+		[KB_520293_Class136]
+		[KB_520293_Class107]
+		[KB_520293_Class112])
+	(NombrePlato "Sopa de cocido")
+	(ProteinasPlato 40.1)
+	(VitaminasPlato 41.2))
+
+([KB_520293_Class135] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 29.0)
+	(GrasaAlimento 0.3)
+	(HCAlimento 3.3)
+	(NombreAlimento "Puerro")
+	(ProteinasAlimento 2.2)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 26.0))
+
+([KB_520293_Class136] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 39.4)
+	(GrasaAlimento 0.2)
+	(HCAlimento 6.9)
+	(NombreAlimento "Zanahoria")
+	(ProteinasAlimento 1.25)
+	(Recomendaciones [Prototipo3_Class10004])
+	(VitaminasAlimento 6.48))
+
+([KB_520293_Class137] of  Carne
+
+	(CaloriasAlimento 655.0)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(GrasaAlimento 71.0)
+	(HCAlimento 0.0)
+	(NombreAlimento "Tocino")
+	(ProteinasAlimento 4.12)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class138] of  Carne
+
+	(CaloriasAlimento 160.0)
+	(GrasaAlimento 9.3)
+	(HCAlimento 0.0)
+	(NombreAlimento "Carne semigrasa de vaca")
+	(ProteinasAlimento 19.1)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class139] of  Carne
+
+	(CaloriasAlimento 136.0)
+	(GrasaAlimento 5.6)
+	(HCAlimento 0.0)
+	(NombreAlimento "Jamon serrano")
+	(ProteinasAlimento 21.37)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class140] of  Aves
+
+	(CaloriasAlimento 232.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 18.1)
+	(HCAlimento 0.0)
+	(NombreAlimento "Gallina entera")
+	(ProteinasAlimento 17.3)
+	(VitaminasAlimento 2.0))
+
+([KB_520293_Class141] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 36.4)
+	(GrasaAlimento 0.6)
+	(HCAlimento 4.2)
+	(NombreAlimento "Judia verde")
+	(ProteinasAlimento 2.4)
+	(Recomendaciones
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(VitaminasAlimento 23.4))
+
+([KB_520293_Class35] of  %3APAL-CONSTRAINT
+)
+
+([KB_520293_Class62] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Macarrones")
+	(%3APAL-STATEMENT "sdafsdf\nsdfsdaf\nsadf\nsdf\n\n\nsdf\n"))
+
+([KB_520293_Class63] of  %3APAL-CONSTRAINT
+)
+
+([KB_520293_Class64] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Macarrones"))
+
+([KB_520293_Class65] of  %3APAL-CONSTRAINT
+
+	(%3APAL-NAME "Macarrones"))
+
+([KB_520293_Class75] of  Aceites
+
+	(CaloriasAlimento 899.0)
+	(Contraindicaciones [Prototipo3_Class10004])
+	(GrasaAlimento 99.9)
+	(HCAlimento 0.0)
+	(NombreAlimento "Aceite de oliva virgen")
+	(ProteinasAlimento 1.0)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class76] of  Aves
+
+	(CaloriasAlimento 157.0)
+	(GrasaAlimento 8.5)
+	(HCAlimento 0.0)
+	(NombreAlimento "Pavo")
+	(ProteinasAlimento 20.2)
+	(Recomendaciones
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10003])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class78] of  Aves
+
+	(CaloriasAlimento 145.0)
+	(GrasaAlimento 6.2)
+	(HCAlimento 0.0)
+	(NombreAlimento "Pechuga de pollo")
+	(ProteinasAlimento 22.2)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 4.6))
+
+([KB_520293_Class79] of  Aves
+
+	(CaloriasAlimento 110.0)
+	(GrasaAlimento 2.3)
+	(HCAlimento 0.0)
+	(NombreAlimento "Codorniz")
+	(ProteinasAlimento 22.37)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 6.1))
+
+([KB_520293_Class80] of  Carne
+
+	(CaloriasAlimento 352.0)
+	(Contraindicaciones [Prototipo3_Class10003])
+	(GrasaAlimento 29.5)
+	(HCAlimento 0.0)
+	(NombreAlimento "Chuletas de cerdo")
+	(ProteinasAlimento 21.6)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class81] of  Carne
+
+	(CaloriasAlimento 461.0)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(GrasaAlimento 46.6)
+	(HCAlimento 0.5)
+	(NombreAlimento "Panceta")
+	(ProteinasAlimento 12.5)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class82] of  Carne
+
+	(CaloriasAlimento 250.0)
+	(GrasaAlimento 20.6)
+	(HCAlimento 0.0)
+	(NombreAlimento "Chuletas de cordero")
+	(ProteinasAlimento 16.18)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class83] of  Carne
+
+	(CaloriasAlimento 104.0)
+	(GrasaAlimento 3.5)
+	(HCAlimento 0.0)
+	(NombreAlimento "Solomillo de buey")
+	(ProteinasAlimento 18.2)
+	(VitaminasAlimento 7.0))
+
+([KB_520293_Class84] of  Leche
+
+	(CaloriasAlimento 37.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 0.0)
+	(HCAlimento 4.9)
+	(NombreAlimento "Leche desnatada")
+	(ProteinasAlimento 3.9)
+	(VitaminasAlimento 1.7))
+
+([KB_520293_Class85] of  Leche
+
+	(CaloriasAlimento 65.4)
+	(Contraindicaciones
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006])
+	(GrasaAlimento 3.8)
+	(HCAlimento 4.7)
+	(NombreAlimento "Leche entera")
+	(ProteinasAlimento 3.0)
+	(VitaminasAlimento 1.4))
+
+([KB_520293_Class86] of  Leche
+
+	(CaloriasAlimento 336.0)
+	(Contraindicaciones
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(GrasaAlimento 10.1)
+	(HCAlimento 52.8)
+	(NombreAlimento "Leche condensada")
+	(ProteinasAlimento 8.5)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 4.0))
+
+([KB_520293_Class87] of  Leche
+
+	(CaloriasAlimento 308.0)
+	(Contraindicaciones
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(GrasaAlimento 31.7)
+	(HCAlimento 3.27)
+	(NombreAlimento "Nata montada")
+	(ProteinasAlimento 2.36)
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class88] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 153.0)
+	(GrasaAlimento 6.0)
+	(HCAlimento 0.0)
+	(NombreAlimento "Bonito")
+	(ProteinasAlimento 24.7)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class89] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 191.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 12.1)
+	(HCAlimento 0.0)
+	(NombreAlimento "Salmon")
+	(ProteinasAlimento 20.6)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class90] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 142.0)
+	(GrasaAlimento 6.0)
+	(HCAlimento 0.0)
+	(NombreAlimento "Boqueron")
+	(ProteinasAlimento 21.5)
+	(Recomendaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class91] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 79.8)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 1.0)
+	(HCAlimento 0.0)
+	(NombreAlimento "Bacalao")
+	(ProteinasAlimento 17.7)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 2.0))
+
+([KB_520293_Class92] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 97.9)
+	(GrasaAlimento 2.3)
+	(HCAlimento 0.0)
+	(NombreAlimento "Lubina")
+	(ProteinasAlimento 19.3)
+	(VitaminasAlimento 0.0))
+
+([KB_520293_Class93] of  Queso
+
+	(CaloriasAlimento 101.1)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006])
+	(GrasaAlimento 4.3)
+	(HCAlimento 3.3)
+	(NombreAlimento "Requeson")
+	(ProteinasAlimento 12.3)
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class94] of  Queso
+
+	(CaloriasAlimento 352.6)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006])
+	(GrasaAlimento 29.8)
+	(HCAlimento 1.0)
+	(NombreAlimento "Queso azul")
+	(ProteinasAlimento 21.13)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class95] of  Queso
+
+	(CaloriasAlimento 392.0)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10007]
+		[Prototipo3_Class10006])
+	(GrasaAlimento 34.0)
+	(HCAlimento 1.0)
+	(NombreAlimento "Queso de cabrales")
+	(ProteinasAlimento 21.5)
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class96] of  Yogurt
+
+	(CaloriasAlimento 139.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 10.2)
+	(HCAlimento 5.4)
+	(NombreAlimento "Yogurt griego")
+	(ProteinasAlimento 6.4)
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class97] of  Yogurt
+
+	(CaloriasAlimento 114.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 3.4)
+	(HCAlimento 15.6)
+	(NombreAlimento "Yogurt de sabores")
+	(ProteinasAlimento 5.3)
+	(VitaminasAlimento 1.0))
+
+([KB_520293_Class98] of  Yogurt
+
+	(CaloriasAlimento 44.9)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 0.3)
+	(HCAlimento 6.3)
+	(NombreAlimento "Yogurt desnatado natural")
+	(ProteinasAlimento 4.3)
+	(VitaminasAlimento 1.6))
+
+([KB_520293_Class99] of  Arroz
+
+	(CaloriasAlimento 364.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 0.9)
+	(HCAlimento 81.6)
+	(NombreAlimento "Arroz")
+	(ProteinasAlimento 6.7)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([Prototipo3_Class0] of  Carne
+
+	(CaloriasAlimento 356.0)
+	(Contraindicaciones
+		[Prototipo3_Class10003]
+		[Prototipo3_Class10006]
+		[Prototipo3_Class10004])
+	(GrasaAlimento 29.3)
+	(HCAlimento 1.9)
+	(NombreAlimento "Chorizo")
+	(ProteinasAlimento 21.2)
+	(VitaminasAlimento 0.0))
+
+([Prototipo3_Class1] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 119.0)
+	(GrasaAlimento 0.0)
+	(HCAlimento 24.3)
+	(NombreAlimento "Ajo")
+	(ProteinasAlimento 4.3)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 14.0))
+
+([Prototipo3_Class10] of  SegundoPlato
+
+	(CaloriasPlato 557.0)
+	(GrasasPlato 38.0)
+	(HidratosDeCArbonoPlato 10.8)
+	(IngredientesPlato
+		[KB_520293_Class76]
+		[KB_520293_Class103])
+	(NombrePlato "Pavo a la naranja")
+	(ProteinasPlato 39.7)
+	(VitaminasPlato 39.8))
+
+([Prototipo3_Class10001] of  %3APAL-CONSTRAINT
+)
+
+([Prototipo3_Class10002] of  %3APAL-CONSTRAINT
+
+	(%3APAL-DESCRIPTION "La diabetes es un conjunto de trastornos metabólicos,2 que afecta a diferentes órganos y tejidos, dura toda la vida y se caracteriza por un aumento de los niveles de glucosa en la sangre")
+	(%3APAL-NAME "Diabetes"))
+
+([Prototipo3_Class10003] of  Enfermedades
+
+	(Descripcion "La diabetes es un conjunto de trastornos metabólicos,2 que afecta a diferentes órganos y tejidos, dura toda la vida y se caracteriza por un aumento de los niveles de glucosa en la sangre")
+	(NombreEnfermedad "Diabetes"))
+
+([Prototipo3_Class10004] of  Enfermedades
+
+	(Descripcion "La obesidad es la enfermedad crónica de origen multifactorial prevenible que se caracteriza por acumulación excesiva de grasa")
+	(NombreEnfermedad "Obesidad"))
+
+([Prototipo3_Class10005] of  Enfermedades
+
+	(Descripcion "El escorbuto es una avitaminosis producida por la deficiencia de vitamina C")
+	(NombreEnfermedad "Escorbuto"))
+
+([Prototipo3_Class10006] of  Enfermedades
+
+	(Descripcion "Enfermedades relacionadas con el corazón o los vasos sanguíneos")
+	(NombreEnfermedad "E.Cardiovasculares"))
+
+([Prototipo3_Class10007] of  Enfermedades
+
+	(Descripcion "Los riñones no son capaces de filtrar las toxinas y otras sustancias de desecho de la sangre adecuadamente")
+	(NombreEnfermedad "E.Renales"))
+
+([Prototipo3_Class10008] of  Frutas
+
+	(CaloriasAlimento 28.4)
+	(GrasaAlimento 0.0)
+	(HCAlimento 5.6)
+	(NombreAlimento "Sandia")
+	(ProteinasAlimento 0.6)
+	(Recomendaciones [Prototipo3_Class10007])
+	(VitaminasAlimento 6.3))
+
+([Prototipo3_Class11] of  SegundoPlato
+
+	(CaloriasPlato 500.0)
+	(GrasasPlato 29.8)
+	(HidratosDeCArbonoPlato 15.2)
+	(IngredientesPlato
+		[KB_520293_Class138]
+		[KB_520293_Class75]
+		[KB_520293_Class133]
+		[KB_520293_Class141]
+		[KB_520293_Class136])
+	(NombrePlato "Estofado de ternera")
+	(ProteinasPlato 41.7)
+	(VitaminasPlato 9.5))
+
+([Prototipo3_Class12] of  SegundoPlato
+
+	(CaloriasPlato 143.0)
+	(GrasasPlato 9.2)
+	(HidratosDeCArbonoPlato 0.0)
+	(IngredientesPlato
+		[KB_520293_Class78]
+		[KB_520293_Class75])
+	(NombrePlato "Filete de pollo a la plancha")
+	(ProteinasPlato 15.0)
+	(VitaminasPlato 3.1))
+
+([Prototipo3_Class14] of  SegundoPlato
+
+	(CaloriasPlato 695.0)
+	(GrasasPlato 43.3)
+	(HidratosDeCArbonoPlato 11.9)
+	(IngredientesPlato
+		[KB_520293_Class78]
+		[KB_520293_Class75]
+		[Prototipo3_Class18])
+	(NombrePlato "Pollo asado con patatas")
+	(ProteinasPlato 65.5)
+	(VitaminasPlato 19.5))
+
+([Prototipo3_Class15] of  PrimerPlato
+
+	(CaloriasPlato 521.0)
+	(GrasasPlato 17.2)
+	(HidratosDeCArbonoPlato 73.5)
+	(IngredientesPlato
+		[KB_520293_Class75]
+		[KB_520293_Class112]
+		[KB_520293_Class130]
+		[KB_520293_Class133])
+	(NombrePlato "Macarrones con tomate")
+	(ProteinasPlato 15.1)
+	(VitaminasPlato 7.6))
+
+([Prototipo3_Class17] of  SegundoPlato
+
+	(CaloriasPlato 343.0)
+	(GrasasPlato 17.5)
+	(HidratosDeCArbonoPlato 5.9)
+	(IngredientesPlato
+		[Prototipo3_Class1]
+		[KB_520293_Class133]
+		[KB_520293_Class130]
+		[KB_520293_Class75]
+		[KB_520293_Class92])
+	(NombrePlato "Lubina al horno")
+	(ProteinasPlato 41.5)
+	(VitaminasPlato 21.6))
+
+([Prototipo3_Class18] of  Verduras%2FHortalizas
+
+	(CaloriasAlimento 73.6)
+	(Contraindicaciones [Prototipo3_Class10003])
+	(GrasaAlimento 0.1)
+	(HCAlimento 14.8)
+	(NombreAlimento "Patata nueva")
+	(ProteinasAlimento 2.3)
+	(VitaminasAlimento 17.0))
+
+([Prototipo3_Class19] of  SegundoPlato
+
+	(CaloriasPlato 512.0)
+	(GrasasPlato 34.4)
+	(HidratosDeCArbonoPlato 10.4)
+	(IngredientesPlato
+		[KB_520293_Class88]
+		[Prototipo3_Class1]
+		[KB_520293_Class133]
+		[KB_520293_Class132]
+		[KB_520293_Class130]
+		[KB_520293_Class75])
+	(NombrePlato "Bonito con tomate")
+	(ProteinasPlato 39.0)
+	(VitaminasPlato 28.6))
+
+([Prototipo3_Class2] of  PrimerPlato
+
+	(CaloriasPlato 415.0)
+	(GrasasPlato 13.3)
+	(HidratosDeCArbonoPlato 37.1)
+	(IngredientesPlato
+		[KB_520293_Class110]
+		[KB_520293_Class75]
+		[KB_520293_Class133]
+		[Prototipo3_Class1]
+		[Prototipo3_Class0])
+	(NombrePlato "Judias blancas estofadas")
+	(ProteinasPlato 25.0)
+	(VitaminasPlato 3.7))
+
+([Prototipo3_Class20] of  SegundoPlato
+
+	(CaloriasPlato 297.0)
+	(GrasasPlato 17.5)
+	(HidratosDeCArbonoPlato 0.0)
+	(IngredientesPlato
+		[KB_520293_Class89]
+		[KB_520293_Class139]
+		[Prototipo3_Class18])
+	(NombrePlato "Salmon en papilote")
+	(ProteinasPlato 34.8)
+	(VitaminasPlato 0.0))
+
+([Prototipo3_Class21] of  Postre
+
+	(CaloriasPlato 244.0)
+	(GrasasPlato 7.4)
+	(HidratosDeCArbonoPlato 37.4)
+	(IngredientesPlato
+		[KB_520293_Class85]
+		[Prototipo3_Class8])
+	(NombrePlato "Flan")
+	(ProteinasPlato 7.0)
+	(VitaminasPlato 1.2))
+
+([Prototipo3_Class22] of  Postre
+
+	(CaloriasPlato 452.0)
+	(GrasasPlato 21.5)
+	(HidratosDeCArbonoPlato 56.6)
+	(IngredientesPlato
+		[KB_520293_Class75]
+		[Prototipo3_Class8]
+		[KB_520293_Class85]
+		[KB_520293_Class111])
+	(NombrePlato "Leche frita")
+	(ProteinasPlato 8.5)
+	(VitaminasPlato 1.5))
+
+([Prototipo3_Class23] of  Postre
+
+	(CaloriasPlato 566.0)
+	(GrasasPlato 39.6)
+	(HidratosDeCArbonoPlato 38.9)
+	(NombrePlato "Torrijas")
+	(ProteinasPlato 12.4)
+	(VitaminasPlato 2.0))
+
+([Prototipo3_Class24] of  Postre
+
+	(CaloriasPlato 55.4)
+	(GrasasPlato 0.0)
+	(HidratosDeCArbonoPlato 12.4)
+	(IngredientesPlato [KB_520293_Class106])
+	(NombrePlato "Melon")
+	(ProteinasPlato 0.8)
+	(VitaminasPlato 32.1))
+
+([Prototipo3_Class25] of  Postre
+
+	(CaloriasPlato 45.5)
+	(GrasasPlato 0.0)
+	(HidratosDeCArbonoPlato 8.9)
+	(IngredientesPlato [KB_520293_Class103])
+	(NombrePlato "Naranja")
+	(ProteinasPlato 0.8)
+	(VitaminasPlato 50.6))
+
+([Prototipo3_Class26] of  Postre
+
+	(CaloriasPlato 95.0)
+	(GrasasPlato 0.0)
+	(HidratosDeCArbonoPlato 20.8)
+	(IngredientesPlato [KB_520293_Class104])
+	(NombrePlato "Platano")
+	(ProteinasPlato 1.0)
+	(VitaminasPlato 11.5))
+
+([Prototipo3_Class27] of  Postre
+
+	(CaloriasPlato 70.3)
+	(GrasasPlato 0.0)
+	(HidratosDeCArbonoPlato 16.1)
+	(IngredientesPlato [KB_520293_Class105])
+	(NombrePlato "uvas")
+	(ProteinasPlato 0.7)
+	(VitaminasPlato 3.0))
+
+([Prototipo3_Class3] of  PrimerPlato
+
+	(CaloriasPlato 506.0)
+	(GrasasPlato 22.2)
+	(HidratosDeCArbonoPlato 38.5)
+	(IngredientesPlato
+		[Prototipo3_Class4]
+		[Prototipo3_Class1]
+		[KB_520293_Class110]
+		[KB_520293_Class133]
+		[KB_520293_Class75])
+	(NombrePlato "Judias blancas con almejas")
+	(ProteinasPlato 26.7)
+	(VitaminasPlato 6.2))
+
+([Prototipo3_Class4] of  Pescado%2FMarisco
+
+	(CaloriasAlimento 76.6)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 1.0)
+	(HCAlimento 1.5)
+	(NombreAlimento "Almeja")
+	(ProteinasAlimento 15.4)
+	(VitaminasAlimento 0.0))
+
+([Prototipo3_Class5] of  PrimerPlato
+
+	(CaloriasPlato 212.0)
+	(GrasasPlato 11.7)
+	(HidratosDeCArbonoPlato 15.8)
+	(IngredientesPlato
+		[KB_520293_Class141]
+		[KB_520293_Class75]
+		[KB_520293_Class130]
+		[KB_520293_Class133])
+	(NombrePlato "Judias verdes con tomate")
+	(ProteinasPlato 7.0)
+	(VitaminasPlato 96.0))
+
+([Prototipo3_Class6] of  Aceites
+
+	(CaloriasAlimento 4.0)
+	(GrasaAlimento 0.0)
+	(HCAlimento 0.6)
+	(NombreAlimento "Vinagre")
+	(ProteinasAlimento 0.4)
+	(Recomendaciones [Prototipo3_Class10006])
+	(VitaminasAlimento 0.0))
+
+([Prototipo3_Class7] of  PrimerPlato
+
+	(CaloriasPlato 162.0)
+	(GrasasPlato 14.3)
+	(HidratosDeCArbonoPlato 4.6)
+	(IngredientesPlato
+		[KB_520293_Class133]
+		[KB_520293_Class131]
+		[KB_520293_Class130]
+		[KB_520293_Class136]
+		[KB_520293_Class75]
+		[Prototipo3_Class6])
+	(NombrePlato "Ensalada mixta")
+	(ProteinasPlato 2.0)
+	(VitaminasPlato 28.3))
+
+([Prototipo3_Class8] of  Aves
+
+	(CaloriasAlimento 162.0)
+	(Contraindicaciones [Prototipo3_Class10007])
+	(GrasaAlimento 12.1)
+	(HCAlimento 0.7)
+	(NombreAlimento "Huevo de gallina")
+	(ProteinasAlimento 12.7)
+	(VitaminasAlimento 0.0))
+
+([Prototipo3_Class9] of  PrimerPlato
+
+	(CaloriasPlato 396.0)
+	(GrasasPlato 12.1)
+	(HidratosDeCArbonoPlato 0.68)
+	(IngredientesPlato
+		[KB_520293_Class99]
+		[Prototipo3_Class8]
+		[KB_520293_Class104]
+		[KB_520293_Class130])
+	(NombrePlato "Arroz a la cubana")
+	(ProteinasPlato 12.68)
+	(VitaminasPlato 9.5))
